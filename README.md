@@ -19,22 +19,25 @@
   <!-- Languages / Frameworks -->
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Sendmail-0072C6?logo=maildotru&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 What I’m Building
-| Project | Description | Tech |
-|---------|-------------|------|
-| **ValidTrend** | Track real TikTok trends (sounds, videos, hashtags, topics) | Node.js · React · PostgreSQL |
-| **ValidPanel** | Social‑media store + digital storefront | Node.js · React · Tailwind |
-| **ValidReply** | WhatsApp auto‑responder for SMEs | Node.js · Express · Twilio |
-| **ValidBlocker** | Android app that blocks adult content | JS · Kotlin · Accessibility API |
+## 🧠 What I Excel At  
+| Area | Description | Tools & Tech |
+|------|-------------|--------------|
+| **Full Stack Engineering** | Building scalable apps from backend to UI with production-ready code | Node.js · React · PostgreSQL · TailwindCSS |
+| **Dev Infrastructure** | Architecting APIs, databases, and background jobs for high‑performance systems | REST · Express · CRON · pg · Docker |
+| **Automation & AI Integration** | Automating workflows and integrating smart features into products | OpenAI API · Puppeteer · Twilio · Meta API |
+| **Founder Mindset** | Creating platforms that solve real user problems with sharp UX | Product Design · Scalable Architecture · Solo Execution |
 
 ---
 
