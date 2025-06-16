@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-thevalidcode-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:contact@validtrend.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-contact@validtrend.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-thevalidcode@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
