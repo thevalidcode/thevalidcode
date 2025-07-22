@@ -1,13 +1,15 @@
-<!-- 🔥 Animated Typing Intro -->
+<!-- 🚀 Professional Hero Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=25F4EE&center=true&vCenter=true&width=800&height=70&lines=Hey+%F0%9F%91%8B+I'm+Valid;Full+Stack+Engineer+%7C+Tech+Founder;Building+next-gen+creator+tools;Turning+code+into+impact+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00C4B3&center=true&vCenter=true&width=900&height=70&lines=Welcome+to+Valid's+GitHub+%F0%9F%93%90;Tech+Founder+%7C+Full+Stack+Engineer+%7C+Product+Strategist;Building+scalable+software+for+creators+and+startups;Engineering+impact+with+code%2C+UX%2C+and+vision." alt="Typing SVG" />
 </p>
 
-<!-- 📈 Profile Badges -->
+<!-- 🧠 Professional Identity & Social Proof -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thevalidcode&label=Profile+Views&color=ff305b&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/thevalidcode?label=Followers&style=flat&color=25F4EE" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/thevalidcode?label=Stars&color=facc15&style=flat" alt="Repo Stars" />
+  <img src="https://komarev.com/ghpvc/?username=thevalidcode&label=Visitors&color=grey&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/thevalidcode?label=GitHub+Followers&style=flat&color=0ea5e9" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/thevalidcode?label=Public+Stars&color=fbbf24&style=flat" alt="Repo Stars" />
+  <img src="https://img.shields.io/badge/Projects-Launched-10%2B-blue?style=flat&logo=vercel&logoColor=white" alt="Projects" />
+  <img src="https://img.shields.io/badge/Stack-Full%20Stack-black?style=flat&logo=stackshare&logoColor=white" alt="Stack" />
 </p>
 
 ---
