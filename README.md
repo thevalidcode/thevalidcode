@@ -23,7 +23,7 @@ const valid = {
   role: "Full Stack Engineer / Tech Founder",
   focus: "Speed ⚡ | UX 🎯 | Architecture 🏗️",
   tools: ["Node.js", "React", "FastAPI", "PostgreSQL", "Docker", "Tauri", "Expo"],
-  building: ["Valid Panel", "Valid Plug", "Valid Threads", "ValidTrend", "ValidFlow"]
+  building: ["Valid Panel"]
 }
 ```
 
