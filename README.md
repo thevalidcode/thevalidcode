@@ -8,8 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=thevalidcode&label=Visitors&color=grey&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/thevalidcode?label=GitHub+Followers&style=flat&color=0ea5e9" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/thevalidcode?label=Public+Stars&color=fbbf24&style=flat" alt="Repo Stars" />
-  <img src="https://img.shields.io/badge/Projects-Launched-10%2B-blue?style=flat&logo=vercel&logoColor=white" alt="Projects" />
-  <img src="https://img.shields.io/badge/Stack-Full%20Stack-black?style=flat&logo=stackshare&logoColor=white" alt="Stack" />
 </p>
 
 ---
