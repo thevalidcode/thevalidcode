@@ -1,7 +1,7 @@
-<!-- 🚀 Professional Hero Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00C4B3&center=true&vCenter=true&width=900&height=70&lines=Welcome+to+Valid's+GitHub+%F0%9F%93%90;Tech+Founder+%7C+Full+Stack+Engineer+%7C+Product+Strategist;Building+scalable+software+for+creators+and+startups;Engineering+impact+with+code%2C+UX%2C+and+vision." alt="Typing SVG" />
-</p>
+<!-- 🧑‍💻 Hero Introduction -->
+<h2 align="center">Ibeh Precious (Valid)</h2>
+<p align="center"><strong>Tech Founder · Full Stack Engineer · Product Strategist</strong></p>
+<p align="center">Building scalable platforms that empower creators and businesses through code, design, and automation.</p>
 
 <!-- 🧠 Professional Identity & Social Proof -->
 <p align="center">
